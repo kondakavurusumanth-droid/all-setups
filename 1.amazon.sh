@@ -1,4 +1,4 @@
-#! /bin/bas
+#! /bin/bash
 sudo -i
 apt update
 apt install apache2  -y
